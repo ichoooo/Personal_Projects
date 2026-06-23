@@ -1,11 +1,9 @@
 # RayaMart E-commerce Analysis
-Project Focus: E-commerce Analysis
+**Project Focus:** E-commerce Analysis
+**Project Kind:** Data Analyst Project
 
-Project Kind: Data Analyst Project
-
-Dataset Info:
-
-Title: Messy E-commerce Dataset
+**Dataset Info:**
+**Title:** Messy E-commerce Dataset
 
 Source: Kaggle
 
